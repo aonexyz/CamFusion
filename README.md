@@ -39,7 +39,7 @@ CamFusion is a high-performance network scanning tool built to identify IP camer
 - **✅ Standalone IP cameras**
 - **✅ Camera login panels that may indicate active CCTV devices**
 
-###🌐 Network Details Overview
+### 🌐 Network Details Overview
 - Displays your **current local IP address**
 - Identifies the active **router gateway IP** 
 - Supports **gateway detection across multiple platforms**
