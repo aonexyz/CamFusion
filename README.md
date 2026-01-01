@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 Run the tool with Python:
 ```bash
-python W8CameraScanner.py
+python camfusion.py
 ```
 
 ### 📱 Termux (Android)
