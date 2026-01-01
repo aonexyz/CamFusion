@@ -4,7 +4,7 @@
 
 ## 📋 Description
 
-W8 Camera Scanner is a high-performance network scanning tool built to identify IP cameras and camera-related web services within specified IP ranges. It uses parallel scanning techniques to deliver fast results, automatically recognizes common CCTV and web interfaces, and includes route tracing features to help analyze network paths and connectivity.
+CamFusion is a high-performance network scanning tool built to identify IP cameras and camera-related web services within specified IP ranges. It uses parallel scanning techniques to deliver fast results, automatically recognizes common CCTV and web interfaces, and includes route tracing features to help analyze network paths and connectivity.
 
 ---
 
